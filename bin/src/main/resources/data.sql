@@ -1,0 +1,1 @@
+-- INSERT INTO patient (pt_first_name, pt_last_name) VALUES ('George', 'Massey');

@@ -1,0 +1,10 @@
+spring:
+  datasource:
+    username: nurse_registry
+    password: nurse_registry
+    url: jdbc:mysql://localhost:3306/nurse_registry
+    
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql : true
